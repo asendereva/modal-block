@@ -56027,11 +56027,6 @@ button:hover{
 
 }
 
-.section-modal .box-content{
-    max-height: 425px
-}
-
-
 .section-modal .box-content .theses-title p{
     font-size: 24px;
     font-family: 'Mont-SemiBold';
@@ -56082,10 +56077,9 @@ button:hover{
 }
 
 .section-modal .box-content .speaker-content{
-    max-height: 365px;
+    max-height: 370px;
     overflow-x: auto;
     margin-right: 25px;
-
     
 }
 
@@ -56095,10 +56089,10 @@ button:hover{
 }
 
 .section-modal .box-content .program-block{
-    margin: 25px 50px;
+    margin: 10px 50px;
     font-family: 'Mont-Regular';
     font-size: 16px;
-    max-height: 185px;
+    max-height: 195px;
 
 }
 
